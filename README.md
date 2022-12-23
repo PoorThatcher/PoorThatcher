@@ -1,26 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nick Xu </h1>
 
-### My name is Nick.
+<h3 align="center">Doubt is the key to knowledge.</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoorThatcher&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning **IELTS, VBA, Python, SQL**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoorThatcher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-<div>
-  <a href="https://github.com/PoorThatcher/PoorThatcher"> 
-    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=PoorThatcher&show_icons=true&theme=solarized-light" />
-  </a>
-  <a href="https://github.com/PoorThatcher/PoorThatcher"> 
-    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoorThatcher&show_icons=true&layout=compact&theme=solarized-light"/>
-  </a>
-</div>
+- 📫 How to reach me **Nick.xu980511@outlook.com**
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoorThatcher&theme=transparent&show_icons=true)
