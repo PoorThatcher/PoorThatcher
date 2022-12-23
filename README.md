@@ -6,6 +6,6 @@
 
 - 📫 How to reach me **Nick.xu980511@outlook.com**
 
-- :globe_with_meridians: My **Blog** : [poorthatcher.github.io](https://poorthatcher.github.io/)
+- 🌐 My **Blog** : [poorthatcher.github.io](https://poorthatcher.github.io/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoorThatcher&theme=transparent&show_icons=true)
